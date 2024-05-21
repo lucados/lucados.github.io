@@ -1,6 +1,6 @@
 {
-    "name": "hair_dresser_app",
-    "short_name": "hair_dresser_app",
+    "name": "Luca Webapp",
+    "short_name": "Luca Webapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
